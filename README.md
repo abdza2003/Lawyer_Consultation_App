@@ -113,24 +113,24 @@ The app supports various communication methods, including:
 
 # 📱 Application Technical Details
 
-## 🛠️ Development
-- **Flutter - Dart** 🚀: Built with **Flutter** to ensure smooth performance and a seamless user experience on both **Android and iOS**.
-- **Availability** 📲: The app is available for download on **Google Play** and **App Store**.
+## 🛠️ Development  
+- **Flutter - Dart** 🚀: Built with **Flutter** to ensure smooth performance and a seamless user experience on both **Android and iOS**.  
+- **Bloc Pattern & Clean Architecture** 🏗️: Implemented **Bloc Pattern** for state management and **Clean Architecture** to maintain a scalable, testable, and maintainable code structure.  
+- **Availability** 📲: The app is available for download on **Google Play** and **App Store**.  
 
-## 🗄️ Database Management
-- **Supabase Database** 📂: A powerful and secure database ensuring high performance and efficient data management.
-- **Firebase Database** 💬: Used for the **chat system**, enabling real-time and seamless communication.
+## 🗄️ Database Management  
+- **Supabase Database** 📂: A powerful and secure database ensuring high performance and efficient data management.  
+- **Firebase Database** 💬: Used for the **chat system**, enabling real-time and seamless communication.  
 
-## 📞 Voice & Video Calls
-- **Zegocloud** 🎥: Provides high-quality **voice and video calls**, including support for group calls.
+## 📞 Voice & Video Calls  
+- **Zegocloud** 🎥: Provides high-quality **voice and video calls**, including support for group calls.  
 
-## 🔔 Notifications
-- **Firebase Notifications** 🚀: Enables instant notifications for important updates, such as appointments, updates, and payments.
+## 🔔 Notifications  
+- **Firebase Notifications** 🚀: Enables instant notifications for important updates, such as appointments, updates, and payments.  
 
-## 💳 Payment Gateway
-- **Telr Payment Gateway** 💰: A secure payment gateway supporting **credit cards and digital wallets** for reliable transactions.
-- **Apple Pay** 🍏: Offers a fast and secure payment option for **Apple device users**, enhancing convenience.
-
+## 💳 Payment Gateway  
+- **Telr Payment Gateway** 💰: A secure payment gateway supporting **credit cards and digital wallets** for reliable transactions.  
+- **Apple Pay** 🍏: Offers a fast and secure payment option for **Apple device users**, enhancing convenience.  
 
 
 ## 📱 Screenshots
