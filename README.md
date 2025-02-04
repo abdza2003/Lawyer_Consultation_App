@@ -133,7 +133,7 @@ The app supports various communication methods, including:
 
 
 
-## Screenshots
+## 📱 Screenshots
 
 | ![Image1](https://github.com/user-attachments/assets/3a25664e-faaf-47ab-b081-f43493ebb29e) | ![Image2](https://github.com/user-attachments/assets/661c2283-ca8c-4310-974c-5f02c881b0d3) | ![Image3](https://github.com/user-attachments/assets/5e12ea1d-004f-4390-a851-e22d66eebed6) |
 |:------------------------:|:------------------------:|:------------------------:|
