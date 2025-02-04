@@ -3,11 +3,10 @@
 ## ℹ️ Introduction  
 **LegalConnect** is an innovative platform that connects users with lawyers, enabling seamless interaction through an intuitive and comprehensive user interface. The app provides all the essential tools for efficient and secure legal consultations.
 
----
 
 ![Image](https://github.com/user-attachments/assets/e492f3dc-2f9b-4026-939a-9d2b697a95b6)
 
---
+
 
 ## 🚀 Features  
 
