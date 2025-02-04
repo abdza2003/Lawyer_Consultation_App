@@ -113,7 +113,7 @@ The app supports various communication methods, including:
 ## 🔗 Quick Links  
 
 <a href="https://apps.apple.com/us/app/adalah-lawyer/id1626615375">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-0056D2?style=for-the-badge" alt="Visit Website">
+    <img src="https://img.shields.io/badge/🍏%20Visit%20Website-0056D2?style=for-the-badge" alt="App Store">
 </a>
 
 ---
