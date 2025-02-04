@@ -137,5 +137,5 @@ The app supports various communication methods, including:
 
 | ![Image1](https://github.com/user-attachments/assets/3a25664e-faaf-47ab-b081-f43493ebb29e) | ![Image2](https://github.com/user-attachments/assets/661c2283-ca8c-4310-974c-5f02c881b0d3) | ![Image3](https://github.com/user-attachments/assets/5e12ea1d-004f-4390-a851-e22d66eebed6) |
 |:------------------------:|:------------------------:|:------------------------:|
-| ![Image4](https://github.com/user-attachments/assets/e99e9865-0afe-46f0-ae65-46e6de541769) | ![Image5](https://github.com/user-attachments/assets/a7ebc806-31c1-4ee0-84f2-590df50b9895) | ![Image6](https://github.com/user-attachments/assets/6960c02e-2a1f-4b68-aaf5-eef99fe1a181) |
+| ![Image4](https://github.com/user-attachments/assets/e99e9865-0afe-46f0-ae65-46e6de541769) | ![Image5](https://github.com/user-attachments/assets/a7ebc806-31c1-4ee0-84f2-590df50b9895) | |
 
