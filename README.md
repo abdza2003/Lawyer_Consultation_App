@@ -110,13 +110,6 @@ The app supports various communication methods, including:
 **LegalConnect** is a comprehensive platform that brings users and lawyers together in one place, offering all the necessary tools for fast and reliable legal consultations. Whether you're a user seeking legal assistance or a lawyer managing your practice, this app provides everything you need for an efficient and secure experience.  
 
 ---
-## 🔗 Quick Links  
-
-<a href="https://apps.apple.com/us/app/adalah-lawyer/id1626615375">
-    <img src="https://img.shields.io/badge/🍏%20App%20Store-0056D2?style=for-the-badge" alt="App Store">
-</a>
-
----
 
 # 📱 Application Technical Details
 
